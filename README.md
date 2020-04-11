@@ -1,4 +1,3 @@
 # flutter_maps
-<img src="https://github.com/arunramarumugam25/flutter_Googlemaps/blob/master/Screenshot_20200410-200603.png" width="500" height="500">
-<img src="https://github.com/arunramarumugam25/flutter_Googlemaps/blob/master/Screenshot_20200410-200611.png" width="500" height="500">
-
+![Image 1](https://raw.githubusercontent.com/arunramarumugam25/flutter_Googlemaps/master/Screenshot_20200410-200603.png)
+![Image 2](https://raw.githubusercontent.com/arunramarumugam25/flutter_Googlemaps/master/Screenshot_20200410-200611.png)
